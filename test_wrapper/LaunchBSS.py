@@ -35,4 +35,3 @@ ap = np.array([np.diag([1,1,1])for vario in range(NVario)]).flatten()
 variogram = dict((('Nvario',NVario),('vario',Vario),
           ('alpha',alpha),('ap',ap),('scf',scf),('var',Variance)))
 #%%
-         
